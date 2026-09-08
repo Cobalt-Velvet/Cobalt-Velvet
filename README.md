@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Cobalt%20Velvet&fontSize=60&desc=SEOL%20HUI&descSize=20&fontColor=ff6f61&color=0:27408B,100:8871e5)
 
+
+> University student interested in backend development & VR community.  
+> Currently focusing on Go, PostgreSQL, and Docker.
+
 ---
 
 ### Tech Stacks
@@ -26,6 +30,3 @@
 </div>
 
 ---
-
-> University student interested in backend development & VR community.  
-> Currently focusing on Go, PostgreSQL, and Docker.
