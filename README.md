@@ -24,3 +24,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 
 </div>
+
+---
+
+> University student interested in backend development & VR community.  
+> Currently focusing on Go, PostgreSQL, and Docker.
